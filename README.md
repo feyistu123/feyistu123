@@ -1,5 +1,5 @@
 Hi, I'm Feyistu 👋
- I'm a Software Engineering student at Addis Ababa University, passionate about building full stack applications and exploring new technologies.  
+- I'm a Software Engineering student at Addis Ababa University, passionate about building full stack applications and exploring new technologies.  
 
 Skills & Interests:  
 - Programming: C++, Python, Java  
