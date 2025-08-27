@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @feyistu123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Feyistu 👋
+ I'm a Software Engineering student at Addis Ababa University, passionate about building full stack applications and exploring new technologies.  
 
-<!---
-feyistu123/feyistu123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills & Interests:  
+- Programming: C++, Python, Java  
+- Concepts: Data Structures & Algorithms, OOP  
+- Tools: Git, GitHub  
+- Currently Learning: Web Development (Frontend & Backend)  
+
+Goals:  
+- Contribute to open source projects  
+- Build innovative full stack solutions  
+- Keep improving my problem-solving skills
+
+How to Reach Me:
+- fayistuendale@gmail.com
