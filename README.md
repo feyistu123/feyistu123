@@ -9,7 +9,7 @@ Skills & Interests:
 - Currently Learning: Web Development (Frontend & Backend)
 
 Projects
-- [TinDog (Bootstrap)](/feyistu123/tindog-bootstrap) — landing page built with HTML/CSS/Bootstrap
+- [TinDog (Bootstrap)](https://github.com/feyistu123/tindog-bootstrap) — landing page built with HTML/CSS/Bootstrap
 
 Goals:  
 - Contribute to open source projects  
