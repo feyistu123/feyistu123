@@ -2,11 +2,10 @@ Hi, I'm Feyistu 👋
 - I'm a Software Engineering student at Addis Ababa University, passionate about building full stack applications and exploring new technologies.  
 
 Skills & Interests:  
-- Programming languages: C++, Python, Java
-- Web: HTML, CSS, JavaScript
-- Concepts: Data Structures & Algorithms, OOP  
+- Programming languages: C++, Python, Java, HTML, CSS, JavaScript
+- Concepts: Data Structures & Algorithms, Object Oriented Programming
 - Tools: Git, GitHub  
-- Currently Learning: Web Development (Frontend & Backend)
+- Currently Learning: Full-stack Web Development
 
 Projects
 - [TinDog (Bootstrap)](https://github.com/feyistu123/tindog-bootstrap) — landing page built with HTML/CSS/Bootstrap
